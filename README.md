@@ -1,4 +1,50 @@
-## Hi there 👋
+# Привет, я Екатерина 👋
+
+💻 Начинающий backend разработчик
+🎓 Студентка **НИУ ИТМО** — Программная инженерия
+🚀 Сейчас активно развиваюсь, изучаю современные технологии и участвую в командных проектах.
+
+---
+
+## 🛠 Навыки
+
+### Java (Jakarta, Spring Boot)
+
+Понимание ООП, работа с основными структурами данных, разработка веб-приложений.
+
+### Python
+
+Знание базового синтаксиса, работа с основными библиотеками, написание скриптов.
+
+### Алгоритмы и структуры данных
+
+Знание алгоритмов и структур данных на уровне B, опыт их реализации на C++.
+
+### Базы данных
+
+MySQL, PostgreSQL
+Создание и конфигурирование БД, написание SQL-запросов, понимание нормализации.
+
+### Инструменты и технологии
+
+Git • Docker • REST API • JWT • Maven • Postman • JUnit
+
+---
+
+## 💻 Языки и технологии
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring"/>
+</p>
+
 
 <!--
 **EkateK1/EkateK1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
