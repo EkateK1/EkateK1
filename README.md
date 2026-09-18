@@ -12,12 +12,6 @@
 | ![REST API](https://img.shields.io/badge/REST_API-orange?style=for-the-badge\&logo=fastapi\&logoColor=white)      |                                                                                                                     |                                                                                                                   | ![JUnit](https://img.shields.io/badge/JUNIT-green?style=for-the-badge\&logo=junit5\&logoColor=white)       |
 | ![Python](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge\&logo=python\&logoColor=white)             |                                                                                                                     |                                                                                                                   |                                                                                                            |
 
-## Наиболее используемые языки
-
-| Статистика языков                                                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EkateK1\&layout=compact\&theme=tokyonight\&hide=jupyter%20notebook\&langs_count=20) |
-
 
 
 <!--
